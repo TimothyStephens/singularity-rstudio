@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
 
 ## The only hard boiled path required by the whole script
